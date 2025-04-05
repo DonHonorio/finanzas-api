@@ -1,0 +1,43 @@
+# flyctl launch added from finanzas-personales/.gitignore
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+finanzas-personales/node_modules
+finanzas-personales/.pnp
+finanzas-personales/**/.pnp.*
+finanzas-personales/**/.yarn/*
+!finanzas-personales/**/.yarn/patches
+!finanzas-personales/**/.yarn/plugins
+!finanzas-personales/**/.yarn/releases
+!finanzas-personales/**/.yarn/versions
+
+# testing
+finanzas-personales/coverage
+
+# next.js
+finanzas-personales/.next
+finanzas-personales/out
+
+# production
+finanzas-personales/build
+
+# misc
+finanzas-personales/**/.DS_Store
+finanzas-personales/**/*.pem
+
+# debug
+finanzas-personales/**/npm-debug.log*
+finanzas-personales/**/yarn-debug.log*
+finanzas-personales/**/yarn-error.log*
+finanzas-personales/**/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+finanzas-personales/**/*.env*
+
+# vercel
+finanzas-personales/**/.vercel
+
+# typescript
+finanzas-personales/**/*.tsbuildinfo
+finanzas-personales/**/next-env.d.ts
+fly.toml

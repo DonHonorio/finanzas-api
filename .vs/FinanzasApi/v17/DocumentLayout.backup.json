@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|c:\\users\\hocoa\\desktop\\pruebas\\finanzaspersonales\\api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|c:\\users\\hocoa\\desktop\\pruebas\\finanzaspersonales\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|c:\\users\\hocoa\\desktop\\pruebas\\finanzaspersonales\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|c:\\users\\hocoa\\desktop\\pruebas\\finanzaspersonales\\api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|c:\\users\\hocoa\\desktop\\pruebas\\finanzaspersonales\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C57FAC7A-12C3-4762-9332-97637852841E}|FinanzasApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T11:40:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:52:04.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:28:06.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:25:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hocoa\\Desktop\\Pruebas\\FinanzasPersonales\\api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T16:54:15.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

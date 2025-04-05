@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "d5l7KPXZ3NpUPgACt6qKaM1Kl5DHLGxpuu8lVoEJV5M=",
+  "Source": "FinanzasApi",
+  "BasePath": "_content/FinanzasApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
